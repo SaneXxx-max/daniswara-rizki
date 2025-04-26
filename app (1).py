@@ -4,11 +4,11 @@ import math
 st.set_page_config(page_title="Haris eek", layout="centered")
 
 # Title
-st.title("harisa danis berkeluarga")
+st.title("PESAN DARI DANIS")
 
 # Description
 st.write("""
-Aplikasi ini membantu menghitung nilai pH dan pOH larutan berdasarkan input konsentrasi ion [H⁺] atau [OH⁻].
+AKU MENCINTAI PINUY DAN DEKSYA
 """)
 
 # Sidebar for input
