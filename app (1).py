@@ -4,7 +4,7 @@ import math
 st.set_page_config(page_title="Haris eek", layout="centered")
 
 # Title
-st.title("🧪 Kalkulator pH & pOH Larutan")
+st.title("harisa danis berkeluarga")
 
 # Description
 st.write("""
