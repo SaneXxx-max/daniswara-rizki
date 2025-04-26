@@ -8,7 +8,7 @@ st.title("🧪 Kalkulator pH & pOH Larutan")
 
 # Description
 st.write("""
-Aplikasi ini membantu menghitung nilai pH dan pOH larutan berdasarkan input konsentrasi ion [H⁺] atau [OH⁻].
+Danis ajg ngentot.
 """)
 
 # Sidebar for input
